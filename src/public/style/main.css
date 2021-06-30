@@ -1,0 +1,20 @@
+:root {
+    --pur: #b3a7d2;
+    --ora: #edbbb4;
+    --blu: #91c4f2;
+    --whi: #fff;
+    --bla: #000;
+}
+
+*, *::before, *::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--pur);
+}
+
+
+
